@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+#container {
+	text-align: center;
+	width: 1100px;
+	margin: 0 auto;
+	border: 3px solid black;
+}
+#result {
+	width: 500px;
+	margin: 25px auto;
+}
+#correct {
+	width: 450px;
+	margin: 0 auto;
+	padding-top: 150px;
+	background-color: green;
+	color: white;
+}
+#high {
+	width: 450px;
+	margin: 0 auto;
+	padding-top: 150px;
+	background-color: red;
+}
+#low {
+	width: 450px;
+	margin: 0 auto;
+	padding-top: 150px;
+	background-color: red;
+}
